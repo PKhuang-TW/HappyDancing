@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PKhuang-TW/HappyDancing/blob/master/imgs/HappyDancing.png">
-    <img src="imgs/HappyDancing.png" width="350">
+    <img src="imgs/HappyDancing.png" width="700">
   </a>
   <h3 align="center">HappyDancing</h3>
   <p align="center">
